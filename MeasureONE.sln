@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasureONE", "MeasureONE\MeasureONE.csproj", "{D17B4396-2869-41D2-970F-FE6D9233B656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasureONE.Android", "Android\MeasureONE.Android.csproj", "{4994333F-7AEE-4CB0-8544-B4B95BA3A771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4994333F-7AEE-4CB0-8544-B4B95BA3A771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4994333F-7AEE-4CB0-8544-B4B95BA3A771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4994333F-7AEE-4CB0-8544-B4B95BA3A771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4994333F-7AEE-4CB0-8544-B4B95BA3A771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17B4396-2869-41D2-970F-FE6D9233B656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17B4396-2869-41D2-970F-FE6D9233B656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17B4396-2869-41D2-970F-FE6D9233B656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17B4396-2869-41D2-970F-FE6D9233B656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Android\MeasureONE.Android.csproj
+	EndGlobalSection
+EndGlobal
